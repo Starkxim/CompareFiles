@@ -1,0 +1,13 @@
+[project]
+name = "comparefiles"
+version = "0.1.0"
+description = "文件夹对比工具 - 对比两个文件夹中同名文件的差异"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chardet",
+]
+
+[[tool.uv.index]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+default = true
