@@ -1,3 +1,5 @@
+https://wakatime.com/badge/user/19c8db5c-5924-4b6a-9ec5-0704a0750227/project/9885869e-d6a3-4946-9a59-9e8e4eb97a5a.svg
+
 # 文件夹对比工具
 
 一个用于对比两个文件夹中同名文件差异的Python GUI工具。
